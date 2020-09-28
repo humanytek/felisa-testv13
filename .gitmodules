@@ -6,3 +6,8 @@
 	path = vendor-bills
 	url = git@git.vauxoo.com:vauxoo/vendor-bills.git
 	branch = 13.0
+
+[submodule "humanytek-team/account_move_report"]
+	path = humanytek-team/account_move_report
+	url = git@github.com:humanytek-team/account_move_report.git
+	branch = 13.0
